@@ -1,4 +1,4 @@
-print("Welcome to Reverse Progrma")
+print("Welcome to Reverse Program")
 s1=str(input("Enter Your Sentence : "))
 s2=s1.split( )
 s2.reverse()
