@@ -1,0 +1,5 @@
+print("Welcome to Reverse Progrma")
+s1=str(input("Enter Your Sentence : "))
+s2=s1.split( )
+s2.reverse()
+print(s2)
