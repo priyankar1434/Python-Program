@@ -15,3 +15,5 @@ elif x==2:
     print(s2.lower())
 else:
     print("Invalid Option")
+
+print()
