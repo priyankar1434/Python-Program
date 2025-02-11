@@ -1,2 +1,1 @@
 print("pri")
-print("hello")
